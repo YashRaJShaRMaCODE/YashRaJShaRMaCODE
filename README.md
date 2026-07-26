@@ -1,28 +1,28 @@
 <div align="center">
 
-# Hi 👋, I'm Yash Raj Sharma
+# 👋 Hi, I'm Yash Raj Sharma
 
 ### Software Engineer | Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Developer;Python+•+Django+•+React+•+Next.js;Building+AI-Powered+Applications;Backend+Engineering+%26+System+Design" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Python+•+Django+•+React+•+Next.js;Backend+Engineering;Building+AI-Powered+Applications;Always+Learning+🚀" />
 
-<p>
+<br>
 
 <a href="https://www.linkedin.com/in/yash-raj-sharma-4627bb212">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:yashrajsharma786jmd@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YashRaJShaRMaCODE">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YashRaJShaRMaCODE&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=YashRaJShaRMaCODE&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
 
@@ -30,12 +30,12 @@
 
 # 🚀 About Me
 
-I'm a Software Engineer passionate about building scalable backend systems, full-stack web applications, and AI-powered products.
+💻 Software Engineer passionate about building scalable backend systems, full-stack web applications, and AI-powered products.
 
-- 💼 Full Stack Developer @ **ElevateCareer.ai**
-- 🔭 Building modern applications using **Python, Django, React & Next.js**
-- 🌱 Currently exploring **System Design, Distributed Systems & Cloud**
-- 💬 Ask me about **Python, Django, REST APIs, React, Next.js**
+- 🔭 Full Stack Developer at **ElevateCareer.ai**
+- 🌱 Learning **System Design, Distributed Systems & Cloud**
+- 💬 Ask me about **Python, Django, React, Next.js, REST APIs & PostgreSQL**
+- ⚡ Love building real-world software that solves practical problems.
 - 📍 Faridabad, Haryana, India
 
 ---
@@ -44,7 +44,7 @@ I'm a Software Engineer passionate about building scalable backend systems, full
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,react,nextjs,ts,js,postgres,mysql,mongodb,redis,docker,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,react,nextjs,typescript,javascript,postgres,mysql,mongodb,redis,docker,git,github,linux,vscode,html,css,tailwind&perline=10"/>
 
 </p>
 
@@ -52,22 +52,22 @@ I'm a Software Engineer passionate about building scalable backend systems, full
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🌾 **UNNATI – Farmer Trust Platform** | AI-powered agricultural platform with trust scoring, loan eligibility and role-based dashboards. |
-| ✍️ **AI Writing Assistant** | Full-stack AI writing platform using Django REST Framework and React. |
-| 📧 **JobMail Tracker** | Gmail API + Google Sheets automation for tracking job applications. |
-| 🎬 **CineScope** | Movie review & recommendation platform built with Django and MySQL. |
-| ❤️ **AgeWell** | Machine Learning based health risk prediction platform. |
-| 🌐 **Portfolio Website** | Personal portfolio built with Next.js and Tailwind CSS. |
-| 📊 **Business Intelligence Platform** | Dashboards, forecasting and analytics using Python & SQL. |
-| 🛒 **RetailMatrix** | Inventory & Order Management System using SQL and relational databases. |
-| 📈 **Binance Futures Bot** | Python CLI trading bot with Binance Futures API integration. |
-| 🎵 **Real-Time Audio Streaming** | Live audio streaming and speech transcription platform. |
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🌾 **UNNATI – Farmer Trust Platform** | AI-powered platform connecting farmers, buyers, banks & government with trust scoring and loan eligibility. | Next.js • Django • PostgreSQL |
+| ✍️ **AI Writing Assistant** | AI-powered writing platform with authentication and REST APIs. | Django • React |
+| 📧 **JobMail Tracker** | Gmail API & Google Sheets automation for tracking job applications. | Python |
+| 🎬 **CineScope** | Movie recommendation & review platform. | Django • MySQL |
+| ❤️ **AgeWell** | Health risk prediction using Machine Learning. | Python • ML |
+| 🌐 **Portfolio Website** | Personal portfolio built with Next.js. | Next.js |
+| 📊 **Business Intelligence Dashboard** | Analytics dashboards and reporting platform. | Python • SQL |
+| 🛒 **RetailMatrix** | Inventory & sales management system. | SQL |
+| 📈 **Binance Futures Bot** | Automated futures trading CLI bot. | Python |
+| 🎵 **Real-Time Audio Streaming** | Live audio streaming and transcription. | FastAPI |
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -99,7 +99,7 @@ I'm a Software Engineer passionate about building scalable backend systems, full
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YashRaJShaRMaCODE&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YashRaJShaRMaCODE&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
@@ -108,62 +108,46 @@ I'm a Software Engineer passionate about building scalable backend systems, full
 # 🌱 Currently Working On
 
 ```yaml
-Building:
-  - AI-powered Web Applications
-  - Scalable Backend Systems
-  - REST APIs
-  - Full Stack Products
-
-Learning:
+Current Focus:
+  - AI-powered Applications
+  - Backend Engineering
   - System Design
   - Distributed Systems
-  - Cloud Technologies
+  - Cloud Computing
 
 Open To:
-  - Software Engineer Roles
-  - Backend Engineering
-  - Full Stack Development
+  - Software Engineer
+  - Backend Engineer
+  - Full Stack Developer
+  - Open Source Collaboration
 ```
 
 ---
 
-# 💡 Fun Fact
+# 📫 Connect With Me
 
-```python
-class YashRajSharma:
+<p align="center">
 
-    def __init__(self):
-        self.role = "Software Engineer"
+<a href="mailto:yashrajsharma786jmd@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-    def skills(self):
-        return [
-            "Python",
-            "Django",
-            "React",
-            "Next.js",
-            "PostgreSQL"
-        ]
+<a href="https://www.linkedin.com/in/yash-raj-sharma-4627bb212">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-    def motto(self):
-        return "Build • Learn • Improve 🚀"
-```
+<a href="https://github.com/YashRaJShaRMaCODE">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-## 🤝 Let's Connect
+### ⭐ *"Building scalable software that solves real-world problems."*
 
-<a href="https://www.linkedin.com/in/yash-raj-sharma-4627bb212">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:yashrajsharma786jmd@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<br><br>
-
-### ⭐ Building scalable software that solves real-world problems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=120&section=footer"/>
 
 </div>
