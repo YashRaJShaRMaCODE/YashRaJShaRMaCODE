@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Yash%20Raj%20Sharma&fontAlign=50&fontAlignY=40&fontSize=55&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlign=50&descAlignY=62"/>
+
 # 👋 Hi, I'm Yash Raj Sharma
 
-### Software Engineer | Full Stack Developer
+### 🚀 Software Engineer | Backend Developer | Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Python+•+Django+•+React+•+Next.js;Backend+Engineering;Building+AI-Powered+Applications;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Python+Developer;Django+Backend+Engineer;React+%7C+Next.js+Developer;Building+AI-Powered+Applications;REST+API+Developer;Always+Learning+New+Things+🚀"/>
 
 <br>
 
@@ -24,109 +26,283 @@
 
 <img src="https://komarev.com/ghpvc/?username=YashRaJShaRMaCODE&label=Profile+Views&color=0e75b6&style=flat"/>
 
+<img src="https://img.shields.io/github/followers/YashRaJShaRMaCODE?style=flat&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/YashRaJShaRMaCODE?style=flat&logo=github"/>
+
 </div>
 
 ---
 
 # 🚀 About Me
 
-💻 Software Engineer passionate about building scalable backend systems, full-stack web applications, and AI-powered products.
+```yaml
+Name: Yash Raj Sharma
 
-- 🔭 Full Stack Developer at **ElevateCareer.ai**
-- 🌱 Learning **System Design, Distributed Systems & Cloud**
-- 💬 Ask me about **Python, Django, React, Next.js, REST APIs & PostgreSQL**
-- ⚡ Love building real-world software that solves practical problems.
-- 📍 Faridabad, Haryana, India
+Role: Software Engineer
+
+Location: Faridabad, Haryana, India
+
+Current Company:
+  ElevateCareer.ai
+
+Specialization:
+  - Backend Engineering
+  - Full Stack Development
+  - AI Applications
+  - REST APIs
+  - Database Design
+
+Currently Learning:
+  - System Design
+  - Distributed Systems
+  - Cloud Computing
+  - DevOps
+
+Open To:
+  - Software Engineer
+  - Backend Developer
+  - Full Stack Developer
+```
 
 ---
 
 # 💻 Tech Stack
 
-<p align="center">
+## 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,react,nextjs,typescript,javascript,postgres,mysql,mongodb,redis,docker,git,github,linux,vscode,html,css,tailwind&perline=10"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=typescript"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
 
 </p>
 
 ---
 
+## ⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=django"/>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=redis"/>
+
+</p>
+
+---
+
+## ☁️ Tools & Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+</p>
+
+---
+
+# 💼 What I Do
+
+✅ Build scalable backend systems
+
+✅ Design REST APIs
+
+✅ Develop Full Stack Web Applications
+
+✅ Integrate AI into products
+
+✅ Optimize databases
+
+✅ Solve real-world engineering problems
+
+---
+
+# 📈 Career Objective
+
+> Passionate Software Engineer focused on building scalable backend systems, AI-powered products, and modern web applications that create real-world impact.
+
+---
 # 🚀 Featured Projects
 
+<div align="center">
+
 | Project | Description | Tech |
-|---------|-------------|------|
-| 🌾 **UNNATI – Farmer Trust Platform** | AI-powered platform connecting farmers, buyers, banks & government with trust scoring and loan eligibility. | Next.js • Django • PostgreSQL |
-| ✍️ **AI Writing Assistant** | AI-powered writing platform with authentication and REST APIs. | Django • React |
-| 📧 **JobMail Tracker** | Gmail API & Google Sheets automation for tracking job applications. | Python |
-| 🎬 **CineScope** | Movie recommendation & review platform. | Django • MySQL |
-| ❤️ **AgeWell** | Health risk prediction using Machine Learning. | Python • ML |
-| 🌐 **Portfolio Website** | Personal portfolio built with Next.js. | Next.js |
-| 📊 **Business Intelligence Dashboard** | Analytics dashboards and reporting platform. | Python • SQL |
-| 🛒 **RetailMatrix** | Inventory & sales management system. | SQL |
-| 📈 **Binance Futures Bot** | Automated futures trading CLI bot. | Python |
-| 🎵 **Real-Time Audio Streaming** | Live audio streaming and transcription. | FastAPI |
+|:--------|:------------|:-----|
+| 🌾 **UNNATI – Farmer Trust Platform** | AI-powered agriculture platform connecting farmers, buyers and banks with Trust Score & Loan Eligibility. | `Next.js` `Django` `PostgreSQL` |
+| 🤖 **AI Writing Assistant** | AI-powered writing assistant with authentication, prompt generation and REST APIs. | `Django` `React` |
+| 📧 **JobMail Tracker** | Gmail & Google Sheets automation for managing job applications. | `Python` `Google APIs` |
+| 🎬 **CineScope** | Movie recommendation & review platform with ratings and watchlists. | `Django` `MySQL` |
+| ❤️ **AgeWell** | Machine Learning based elderly health prediction system. | `Python` `ML` |
+| 🌐 **Portfolio Website** | Modern responsive portfolio built with Next.js and Tailwind CSS. | `Next.js` |
+| 📊 **Business Intelligence Dashboard** | Interactive analytics dashboard with forecasting and KPIs. | `Python` `SQL` |
+| 📦 **RetailMatrix** | Inventory & Order Management System with reporting. | `SQL` |
+| 📈 **Binance Futures Trading Bot** | CLI trading bot using Binance Futures API. | `Python` |
+| 🎤 **Real-Time Audio Streaming** | Live speech streaming & transcription backend. | `FastAPI` |
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YashRaJShaRMaCODE&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YashRaJShaRMaCODE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRaJShaRMaCODE&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRaJShaRMaCODE&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+---
 
-<img width="65%" src="https://streak-stats.demolab.com?user=YashRaJShaRMaCODE&theme=tokyonight&hide_border=true"/>
+# 🔥 Contribution Streak
 
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YashRaJShaRMaCODE&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashRaJShaRMaCODE&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Achievements
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YashRaJShaRMaCODE&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YashRaJShaRMaCODE&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
-</p>
+</div>
 
 ---
 
-# 🌱 Currently Working On
+# 🌱 Current Focus
 
 ```yaml
-Current Focus:
-  - AI-powered Applications
-  - Backend Engineering
-  - System Design
-  - Distributed Systems
-  - Cloud Computing
+Building:
 
-Open To:
-  - Software Engineer
-  - Backend Engineer
-  - Full Stack Developer
-  - Open Source Collaboration
+  • AI-powered Applications
+
+  • Backend APIs
+
+  • Full Stack Products
+
+  • Scalable Web Platforms
+
+Learning:
+
+  • System Design
+
+  • Distributed Systems
+
+  • Cloud Computing
+
+  • DevOps
+
+Interested In:
+
+  • Software Engineering
+
+  • Backend Development
+
+  • Full Stack Engineering
+
+  • AI Engineering
+
+  • Open Source
 ```
 
 ---
 
-# 📫 Connect With Me
+# ⚡ Engineering Principles
 
-<p align="center">
+```text
+✔ Write clean and maintainable code
+
+✔ Build scalable backend systems
+
+✔ API-first architecture
+
+✔ Performance matters
+
+✔ Security by design
+
+✔ Keep learning every day
+```
+
+---
+
+<div align="center">
+
+### 💻 "First solve the problem. Then write beautiful code."
+
+</div>
+
+---
+# 📫 Let's Connect
+
+<div align="center">
 
 <a href="mailto:yashrajsharma786jmd@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -140,14 +316,84 @@ Open To:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</div>
+
+---
+
+# 📊 Quick Facts
+
+| | |
+|:---|:---|
+| 💼 Role | Software Engineer |
+| 🏢 Company | ElevateCareer.ai |
+| 💻 Specialization | Backend Engineering & Full Stack Development |
+| ⚡ Languages | Python, JavaScript, TypeScript |
+| 🛠 Frameworks | Django, FastAPI, React, Next.js |
+| 🗄 Databases | PostgreSQL, MySQL, MongoDB, Redis |
+| 🌍 Location | Faridabad, Haryana, India |
+
+---
+
+# 💭 Developer Mindset
+
+```python
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Yash Raj Sharma"
+
+    def loves(self):
+        return [
+            "Backend Development",
+            "System Design",
+            "Artificial Intelligence",
+            "Distributed Systems",
+            "Clean Architecture"
+        ]
+
+    def mission(self):
+        return "Build software that improves people's lives."
+
+    def motto(self):
+        return "Keep Learning • Keep Building 🚀"
+```
+
+---
+
+# 📈 2026 Goals
+
+```text
+✅ Become a Strong Backend Engineer
+
+✅ Master System Design
+
+✅ Contribute to Open Source
+
+✅ Build Large Scale Products
+
+✅ Learn Cloud & DevOps
+
+✅ Grow as a Software Engineer
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YashRaJShaRMaCODE/YashRaJShaRMaCODE/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
 
+# ❤️ Thanks for Visiting
+
 <div align="center">
 
-### ⭐ *"Building scalable software that solves real-world problems."*
+### If you like my work, consider following me ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&section=footer"/>
 
 </div>
