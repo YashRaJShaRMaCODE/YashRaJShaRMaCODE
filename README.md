@@ -1,256 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Yash%20Raj%20Sharma&fontAlign=50&fontAlignY=40&fontSize=55&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlign=50&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Yash%20Raj%20Sharma&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Django%20%E2%80%A2%20Next.js%20%E2%80%A2%20AI&descAlignY=58&descSize=18"/>
 
-### 🚀 Software Engineer · Backend Developer · Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=I+build+production+web+apps+with+Django+%2B+Next.js;Shipping+LLM+features+at+ElevateCareer.ai;Automating+the+boring+stuff+with+Python"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Python+Developer;Django+Backend+Engineer;React+%7C+Next.js+Developer;Building+AI-Powered+Applications;REST+API+Developer;Always+Learning+New+Things+%F0%9F%9A%80"/>
-
-<br>
-
-<a href="https://www.linkedin.com/in/yash-raj-sharma-4627bb212"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:yashrajsharma786jmd@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/YashRaJShaRMaCODE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YashRaJShaRMaCODE&label=Profile+Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/YashRaJShaRMaCODE?style=flat&logo=github"/>
-<img src="https://img.shields.io/github/stars/YashRaJShaRMaCODE?style=flat&logo=github"/>
+<a href="https://www.linkedin.com/in/yash-raj-sharma-4627bb212"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yashrajsharma786jmd@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=YashRaJShaRMaCODE&label=Profile%20views&color=2563eb&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+### 👋 About
 
-```yaml
-Name: Yash Raj Sharma
-Role: Software Engineer
-Location: Faridabad, Haryana, India
-Company: ElevateCareer.ai
+- 💼 **Full Stack Developer @ ElevateCareer.ai**: building AI-powered learning products (Coder Arena, AI Pair Debug, Communication Studio)
+- 🛠️ Previously **Backend Developer @ Bhumi Tech**: scaled an LMS to 15+ modules and cut manual reporting by 70%
+- 🎓 B.Tech CSE, J.C. Bose University (YMCA), Faridabad
+- 🎯 Open to **Backend / Full Stack** roles: remote or on-site
 
-Specialization:
-  - Backend Engineering
-  - Full Stack Development
-  - AI-Powered Applications
-  - REST API Design
-  - Database Architecture
-
-Currently Learning:
-  - System Design
-  - Distributed Systems
-  - Cloud Computing
-  - DevOps
-
-Open To:
-  - Software Engineer
-  - Backend Developer
-  - Full Stack Developer
-```
-
-> Passionate Software Engineer focused on building scalable backend systems, AI-powered products, and modern web applications that create real-world impact.
-
----
-
-## 💻 Tech Stack
-
-**Languages**
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=javascript"/>
-<img src="https://skillicons.dev/icons?i=typescript"/>
-<img src="https://skillicons.dev/icons?i=cpp"/>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-</p>
-
-**Backend**
-<p>
-<img src="https://skillicons.dev/icons?i=django"/>
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-</p>
-
-**Frontend**
-<p>
-<img src="https://skillicons.dev/icons?i=react"/>
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-</p>
-
-**Databases**
-<p>
-<img src="https://skillicons.dev/icons?i=postgres"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-<img src="https://skillicons.dev/icons?i=redis"/>
-</p>
-
-**Tools & Platforms**
-<p>
-<img src="https://skillicons.dev/icons?i=docker"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=postman"/>
-</p>
-
----
-
-## 💼 What I Do
-
-✅ Build scalable backend systems&nbsp;&nbsp;&nbsp;✅ Design REST APIs&nbsp;&nbsp;&nbsp;✅ Develop full stack web apps
-✅ Integrate AI into products&nbsp;&nbsp;&nbsp;✅ Optimize databases&nbsp;&nbsp;&nbsp;✅ Solve real-world engineering problems
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| 🌾 **UNNATI – Farmer Trust Platform** | AI-powered agriculture platform connecting farmers, buyers and banks with Trust Score & Loan Eligibility. | `Next.js` `Django` `PostgreSQL` |
-| 🤖 **AI Writing Assistant** | AI-powered writing assistant with authentication, prompt generation and REST APIs. | `Django` `React` |
-| 📧 **JobMail Tracker** | Gmail & Google Sheets automation for managing job applications. | `Python` `Google APIs` |
-| 🎬 **CineScope** | Movie recommendation & review platform with ratings and watchlists. | `Django` `MySQL` |
-| ❤️ **AgeWell** | Machine learning based elderly health prediction system. | `Python` `ML` |
-| 🌐 **Portfolio Website** | Modern responsive portfolio built with Next.js and Tailwind CSS. | `Next.js` |
-| 📊 **Business Intelligence Dashboard** | Interactive analytics dashboard with forecasting and KPIs. | `Python` `SQL` |
-| 📦 **RetailMatrix** | Inventory & order management system with reporting. | `SQL` |
-| 📈 **Binance Futures Trading Bot** | CLI trading bot using Binance Futures API. | `Python` |
-| 🎤 **Real-Time Audio Streaming** | Live speech streaming & transcription backend. | `FastAPI` |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YashRaJShaRMaCODE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRaJShaRMaCODE&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=YashRaJShaRMaCODE&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashRaJShaRMaCODE&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YashRaJShaRMaCODE&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-## 🌱 Current Focus
-
-```yaml
-Building:
-  - AI-powered Applications
-  - Backend APIs
-  - Full Stack Products
-  - Scalable Web Platforms
-
-Learning:
-  - System Design
-  - Distributed Systems
-  - Cloud Computing
-  - DevOps
-
-Interested In:
-  - Software Engineering
-  - Backend Development
-  - AI Engineering
-  - Open Source
-```
-
----
-
-## ⚡ Engineering Principles
-
-```text
-✔ Write clean and maintainable code
-✔ Build scalable backend systems
-✔ API-first architecture
-✔ Performance matters
-✔ Security by design
-✔ Keep learning every day
-```
-
----
-
-## 💭 Developer Mindset
-
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Yash Raj Sharma"
-
-    def loves(self):
-        return [
-            "Backend Development",
-            "System Design",
-            "Artificial Intelligence",
-            "Distributed Systems",
-            "Clean Architecture",
-        ]
-
-    def mission(self):
-        return "Build software that improves people's lives."
-
-    def motto(self):
-        return "Keep Learning • Keep Building 🚀"
-```
-
----
-
-## 📈 2026 Goals
-
-```text
-✅ Become a Strong Backend Engineer
-✅ Master System Design
-✅ Contribute to Open Source
-✅ Build Large Scale Products
-✅ Learn Cloud & DevOps
-✅ Grow as a Software Engineer
-```
-
----
-
-## 🐍 Contribution Snake
+### 🧰 Tech Stack
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashRaJShaRMaCODE/YashRaJShaRMaCODE/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashRaJShaRMaCODE/YashRaJShaRMaCODE/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/YashRaJShaRMaCODE/YashRaJShaRMaCODE/output/github-contribution-grid-snake.svg"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,nextjs,tailwind,postgres,mysql,mongodb,redis,docker,git,linux,postman&perline=8"/>
 </p>
 
 ---
 
-## 📫 Let's Connect
+### 🚀 Featured Work
+
+| | Project | What it does | Stack |
+|:-:|:--|:--|:--|
+| 🌾 | **[UNNATI](https://github.com/YashRaJShaRMaCODE/unnati-farmer-platform)** | Farmer trust & credit platform: trust score, loan eligibility, marketplace, bilingual Gemini assistant, 5 role dashboards | Django REST · Next.js · PostgreSQL |
+| ✈️ | **[AutoPilot Hustle](https://github.com/YashRaJShaRMaCODE/autopilot-hustle)** | Free job-hunt & cold-outreach automation: tailored resumes, recruiter replies, personalised emails, Excel tracking | Python · Playwright · IMAP |
+| ✍️ | **[AI Writing Assistant](https://github.com/YashRaJShaRMaCODE/ai-writing-assistant)** | AI rewriting tool with JWT auth and protected routes | Django REST · React |
+| 🎙️ | **[Real-Time Audio Streaming](https://github.com/YashRaJShaRMaCODE/real-audio-streaming)** | Live mic streaming over WebSockets with waveform visualiser and transcription | Spring WebFlux · React |
+| 📈 | **[Binance Futures Bot](https://github.com/YashRaJShaRMaCODE/binance_future_bot)** | CLI bot with Market, Limit, Stop-Limit, OCO and TWAP orders | Python · Binance API |
+| 🎬 | **[CineScope](https://github.com/YashRaJShaRMaCODE/Cinescope)** | Movie discovery: ratings, reviews, watchlists, 15+ APIs | Django · MySQL |
+| ❤️ | **[AgeWell](https://github.com/YashRaJShaRMaCODE/AgeWell-Health-Risk-Prediction)** | Elderly health-risk scoring with PDF reports | Python · ML · MySQL |
+| 📧 | **[JobMail Tracker](https://github.com/YashRaJShaRMaCODE/JobMail-tracker)** | Auto-logs job emails to Google Sheets, idempotent and restart-safe | Gmail API · OAuth 2.0 |
+| 📊 | **[BI & Analytics](https://github.com/YashRaJShaRMaCODE/business-intelligence-analytics)** | SQL + Python analysis of 82k Netflix titles, EDA and ML | SQL · Pandas · Flask |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YashRaJShaRMaCODE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRaJShaRMaCODE&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=YashRaJShaRMaCODE&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
 
 <div align="center">
 
-<a href="mailto:yashrajsharma786jmd@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yash-raj-sharma-4627bb212"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YashRaJShaRMaCODE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+**Let's build something useful together.** 📫 [yashrajsharma786jmd@gmail.com](mailto:yashrajsharma786jmd@gmail.com)
 
-### 💻 "First solve the problem. Then write beautiful code."
-
-If you like my work, consider following me ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2563eb,100:0f172a&section=footer"/>
 
 </div>
+
