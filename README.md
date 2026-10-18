@@ -31,15 +31,16 @@
 
 | | Project | What it does | Stack |
 |:-:|:--|:--|:--|
-| 🌾 | **[UNNATI](https://github.com/YashRaJShaRMaCODE/unnati-farmer-platform)** | Farmer trust & credit platform: trust score, loan eligibility, marketplace, bilingual Gemini assistant, 5 role dashboards | Django REST · Next.js · PostgreSQL |
-| ✈️ | **[AutoPilot Hustle](https://github.com/YashRaJShaRMaCODE/autopilot-hustle)** | Free job-hunt & cold-outreach automation: tailored resumes, recruiter replies, personalised emails, Excel tracking | Python · Playwright · IMAP |
-| ✍️ | **[AI Writing Assistant](https://github.com/YashRaJShaRMaCODE/ai-writing-assistant)** | AI rewriting tool with JWT auth and protected routes | Django REST · React |
-| 🎙️ | **[Real-Time Audio Streaming](https://github.com/YashRaJShaRMaCODE/real-audio-streaming)** | Live mic streaming over WebSockets with waveform visualiser and transcription | Spring WebFlux · React |
-| 📈 | **[Binance Futures Bot](https://github.com/YashRaJShaRMaCODE/binance_future_bot)** | CLI bot with Market, Limit, Stop-Limit, OCO and TWAP orders | Python · Binance API |
-| 🎬 | **[CineScope](https://github.com/YashRaJShaRMaCODE/Cinescope)** | Movie discovery: ratings, reviews, watchlists, 15+ APIs | Django · MySQL |
-| ❤️ | **[AgeWell](https://github.com/YashRaJShaRMaCODE/AgeWell-Health-Risk-Prediction)** | Elderly health-risk scoring with PDF reports | Python · ML · MySQL |
-| 📧 | **[JobMail Tracker](https://github.com/YashRaJShaRMaCODE/JobMail-tracker)** | Auto-logs job emails to Google Sheets, idempotent and restart-safe | Gmail API · OAuth 2.0 |
-| 📊 | **[BI & Analytics](https://github.com/YashRaJShaRMaCODE/business-intelligence-analytics)** | SQL + Python analysis of 82k Netflix titles, EDA and ML | SQL · Pandas · Flask |
+| 🌾 | **[UNNATI](https://github.com/YashRaJShaRMaCODE/unnati-farmer-platform)** · [🔗 Live](https://unnati-farmer-platform-18pr.vercel.app) | Farmer trust & credit platform: trust score, loan eligibility, marketplace, bilingual Gemini assistant | Django REST · Next.js · PostgreSQL |
+| ✈️ | **[AutoPilot Hustle](https://github.com/YashRaJShaRMaCODE/autopilot-hustle)** | Free job-hunt & cold-outreach automation | Python · Playwright · IMAP |
+| ✍️ | **[AI Writing Assistant](https://github.com/YashRaJShaRMaCODE/ai-writing-assistant)** · [🔗 Live](https://ai-writing-assistant-u4t8.vercel.app) | Rewrite & summarise text with Gemini | Django REST · React · Gemini |
+| 🎙️ | **[Real-Time Audio Streaming](https://github.com/YashRaJShaRMaCODE/real-audio-streaming)** · [🔗 Live](https://real-audio-streaming.vercel.app) | Live mic streaming over WebSockets with waveform visualiser | Spring WebFlux · React |
+| 🎬 | **[CineScope](https://github.com/YashRaJShaRMaCODE/Cinescope)** · [🔗 Live](https://cinescope-3pc5.onrender.com) | Movie discovery: ratings, reviews, watchlists | Django · MySQL |
+| 📈 | **[Binance Futures Bot](https://github.com/YashRaJShaRMaCODE/binance_future_bot)** | CLI bot: Market, Limit, Stop-Limit, OCO, TWAP | Python · Binance API |
+| ❤️ | **[AgeWell](https://github.com/YashRaJShaRMaCODE/AgeWell-Health-Risk-Prediction)** · [🔗 Live](https://agewell-health-risk-prediction-aqvimr8xdctqyhe2kucttv.streamlit.app) | Elderly health-risk scoring with PDF reports | Python · ML · MySQL |
+| 📧 | **[JobMail Tracker](https://github.com/YashRaJShaRMaCODE/JobMail-tracker)** | Auto-logs job emails to Google Sheets | Gmail API · OAuth 2.0 |
+| 📊 | **[BI & Analytics](https://github.com/YashRaJShaRMaCODE/business-intelligence-analytics)** | SQL + Python analysis of 82k Netflix titles | SQL · Pandas · Flask |
+
 
 ---
 
