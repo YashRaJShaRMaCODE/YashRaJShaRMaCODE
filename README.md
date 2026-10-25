@@ -1,66 +1,34 @@
-<div align="center">
+# Yash Raj Sharma
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Yash%20Raj%20Sharma&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Django%20%E2%80%A2%20Next.js%20%E2%80%A2%20AI&descAlignY=58&descSize=18"/>
+**Full-stack developer** building web products, practical AI features, and Python automation.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=I+build+production+web+apps+with+Django+%2B+Next.js;Shipping+LLM+features+at+ElevateCareer.ai;Automating+the+boring+stuff+with+Python"/>
+Currently at **ElevateCareer.ai**, working on AI-powered learning tools. Previously at **Bhumi Tech**, where I worked on LMS modules and reporting automation.
 
-<a href="https://www.linkedin.com/in/yash-raj-sharma-4627bb212"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:yashrajsharma786jmd@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=YashRaJShaRMaCODE&label=Profile%20views&color=2563eb&style=for-the-badge"/>
+[LinkedIn](https://www.linkedin.com/in/yash-raj-sharma-4627bb212) · [Email](mailto:yashrajsharma786jmd@gmail.com)
 
-</div>
+## Selected work
 
----
+| Project | What it does | Built with |
+|---|---|---|
+| [UNNATI](https://github.com/YashRaJShaRMaCODE/unnati-farmer-platform) | Farmer services platform with trust scoring, loan eligibility, marketplace, and Hindi/English support | Django REST, Next.js, PostgreSQL |
+| [Govind Attire](https://github.com/YashRaJShaRMaCODE/govind-attire) | Online storefront for a family apparel business | Next.js, TypeScript, Prisma |
+| [AI Writing Assistant](https://github.com/YashRaJShaRMaCODE/ai-writing-assistant) | Text rewriting and summarization app | Django REST, React, Gemini |
+| [Real-Time Audio Streaming](https://github.com/YashRaJShaRMaCODE/real-audio-streaming) | Browser microphone streaming over WebSockets | Spring, React |
+| [CineScope](https://github.com/YashRaJShaRMaCODE/Cinescope) | Searchable movie catalogue with filters and curated pages | Django, SQLite |
+| [Job Application Automation](https://github.com/YashRaJShaRMaCODE/job-application-automation) | Tools for managing applications and automating parts of a job search | Python |
+| [AgeWell](https://github.com/YashRaJShaRMaCODE/AgeWell-Health-Risk-Prediction) | Experimental health-risk prediction demo with PDF reports; not for clinical decisions | Python, scikit-learn, MySQL |
+| [Binance Futures Bot](https://github.com/YashRaJShaRMaCODE/binance_future_bot) | Order preview and execution against Binance Testnet | Python |
 
-### 👋 About
+## Tools I use
 
-- 💼 **Full Stack Developer @ ElevateCareer.ai**: building AI-powered learning products (Coder Arena, AI Pair Debug, Communication Studio)
-- 🛠️ Previously **Backend Developer @ Bhumi Tech**: scaled an LMS to 15+ modules and cut manual reporting by 70%
-- 🎓 B.Tech CSE, J.C. Bose University (YMCA), Faridabad
-- 🎯 Open to **Backend / Full Stack** roles: remote or on-site
+Python · Django · FastAPI · TypeScript · React · Next.js · PostgreSQL · MySQL · Redis · Docker
 
-### 🧰 Tech Stack
+## Background
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,nextjs,tailwind,postgres,mysql,mongodb,redis,docker,git,linux,postman&perline=8"/>
-</p>
-
----
-
-### 🚀 Featured Work
-
-| | Project | What it does | Stack |
-|:-:|:--|:--|:--|
-| 🌾 | **[UNNATI](https://github.com/YashRaJShaRMaCODE/unnati-farmer-platform)** · [🔗 Live](https://unnati-farmer-platform-18pr.vercel.app) | Farmer trust & credit platform: trust score, loan eligibility, marketplace, bilingual Gemini assistant | Django REST · Next.js · PostgreSQL |
-| ✈️ | **[AutoPilot Hustle](https://github.com/YashRaJShaRMaCODE/autopilot-hustle)** | Free job-hunt & cold-outreach automation | Python · Playwright · IMAP |
-| ✍️ | **[AI Writing Assistant](https://github.com/YashRaJShaRMaCODE/ai-writing-assistant)** · [🔗 Live](https://ai-writing-assistant-u4t8.vercel.app) | Rewrite & summarise text with Gemini | Django REST · React · Gemini |
-| 🎙️ | **[Real-Time Audio Streaming](https://github.com/YashRaJShaRMaCODE/real-audio-streaming)** · [🔗 Live](https://real-audio-streaming.vercel.app) | Live mic streaming over WebSockets with waveform visualiser | Spring WebFlux · React |
-| 🎬 | **[CineScope](https://github.com/YashRaJShaRMaCODE/Cinescope)** | Movie discovery with search, filters, and curated catalog pages | Django · SQLite |
-| ⭐ | **[CineScope Review Platform](https://github.com/YashRaJShaRMaCODE/Cinescope-Movie-Rating-Review-Backend-Platform)** | Django prototype for movie ratings and user reviews | Django · SQLite |
-| 📈 | **[Binance Futures Bot](https://github.com/YashRaJShaRMaCODE/binance_future_bot)** | Testnet-only market and limit order preview with explicit submit opt-in | Python · Binance Testnet |
-| ❤️ | **[AgeWell](https://github.com/YashRaJShaRMaCODE/AgeWell-Health-Risk-Prediction)** · [🔗 Live](https://agewell-health-risk-prediction-aqvimr8xdctqyhe2kucttv.streamlit.app) | Elderly health-risk scoring with PDF reports | Python · ML · MySQL |
-| 📧 | **[JobMail Tracker](https://github.com/YashRaJShaRMaCODE/JobMail-tracker)** | Auto-logs job emails to Google Sheets | Gmail API · OAuth 2.0 |
-| 📊 | **[BI & Analytics](https://github.com/YashRaJShaRMaCODE/business-intelligence-analytics)** | Local explorer for a public movie and TV catalog dataset | Python · Flask · SQLite |
-
+- B.Tech in Computer Science, J.C. Bose University (YMCA), Faridabad
+- Previously Backend Developer at Bhumi Tech
+- Open to Backend and Full-Stack roles
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YashRaJShaRMaCODE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRaJShaRMaCODE&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=YashRaJShaRMaCODE&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-<div align="center">
-
-**Let's build something useful together.** 📫 [yashrajsharma786jmd@gmail.com](mailto:yashrajsharma786jmd@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2563eb,100:0f172a&section=footer"/>
-
-</div>
-
+For collaboration: [yashrajsharma786jmd@gmail.com](mailto:yashrajsharma786jmd@gmail.com)
