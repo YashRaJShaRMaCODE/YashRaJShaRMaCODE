@@ -35,11 +35,12 @@
 | ✈️ | **[AutoPilot Hustle](https://github.com/YashRaJShaRMaCODE/autopilot-hustle)** | Free job-hunt & cold-outreach automation | Python · Playwright · IMAP |
 | ✍️ | **[AI Writing Assistant](https://github.com/YashRaJShaRMaCODE/ai-writing-assistant)** · [🔗 Live](https://ai-writing-assistant-u4t8.vercel.app) | Rewrite & summarise text with Gemini | Django REST · React · Gemini |
 | 🎙️ | **[Real-Time Audio Streaming](https://github.com/YashRaJShaRMaCODE/real-audio-streaming)** · [🔗 Live](https://real-audio-streaming.vercel.app) | Live mic streaming over WebSockets with waveform visualiser | Spring WebFlux · React |
-| 🎬 | **[CineScope](https://github.com/YashRaJShaRMaCODE/Cinescope)** · [🔗 Live](https://cinescope-3pc5.onrender.com) | Movie discovery: ratings, reviews, watchlists | Django · MySQL |
-| 📈 | **[Binance Futures Bot](https://github.com/YashRaJShaRMaCODE/binance_future_bot)** | CLI bot: Market, Limit, Stop-Limit, OCO, TWAP | Python · Binance API |
+| 🎬 | **[CineScope](https://github.com/YashRaJShaRMaCODE/Cinescope)** | Movie discovery with search, filters, and curated catalog pages | Django · SQLite |
+| ⭐ | **[CineScope Review Platform](https://github.com/YashRaJShaRMaCODE/Cinescope-Movie-Rating-Review-Backend-Platform)** | Django prototype for movie ratings and user reviews | Django · SQLite |
+| 📈 | **[Binance Futures Bot](https://github.com/YashRaJShaRMaCODE/binance_future_bot)** | Testnet-only market and limit order preview with explicit submit opt-in | Python · Binance Testnet |
 | ❤️ | **[AgeWell](https://github.com/YashRaJShaRMaCODE/AgeWell-Health-Risk-Prediction)** · [🔗 Live](https://agewell-health-risk-prediction-aqvimr8xdctqyhe2kucttv.streamlit.app) | Elderly health-risk scoring with PDF reports | Python · ML · MySQL |
 | 📧 | **[JobMail Tracker](https://github.com/YashRaJShaRMaCODE/JobMail-tracker)** | Auto-logs job emails to Google Sheets | Gmail API · OAuth 2.0 |
-| 📊 | **[BI & Analytics](https://github.com/YashRaJShaRMaCODE/business-intelligence-analytics)** | SQL + Python analysis of 82k Netflix titles | SQL · Pandas · Flask |
+| 📊 | **[BI & Analytics](https://github.com/YashRaJShaRMaCODE/business-intelligence-analytics)** | Local explorer for a public movie and TV catalog dataset | Python · Flask · SQLite |
 
 
 ---
