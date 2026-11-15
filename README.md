@@ -12,7 +12,7 @@ Currently building AI-powered learning tools at **ElevateCareer.ai**. Previously
 
 | Project | Focus | Stack |
 |---|---|---|
-| [MYPortfolio](https://github.com/YashRaJShaRMaCODE/yashrajsharma-portfolio) · [Live portfolio](https://my-portfolio-ten-tau-95.vercel.app/) | Product case studies across full-stack systems and applied AI | Next.js, TypeScript, React |
+| [Portfolio](https://github.com/YashRaJShaRMaCODE/yashrajsharma-portfolio) · [Live portfolio](https://my-portfolio-ten-tau-95.vercel.app/) | Product case studies across full-stack systems and applied AI | Next.js, TypeScript, React |
 | [UNNATI](https://github.com/YashRaJShaRMaCODE/kisansetu) · [Live app](https://unnati-farmer-platform.vercel.app/) | Farmer services, scheme discovery, marketplace, and bilingual workflows | Django REST, Next.js, PostgreSQL |
 | [Clear Writing](https://github.com/YashRaJShaRMaCODE/draftloom) · [Live app](https://clear-writing-studio.onrender.com/) | Rewriting and concise summaries for professional drafts | Django REST, React, Gemini |
 | [Spott](https://github.com/YashRaJShaRMaCODE/gatherly) | AI-assisted event discovery and planning | Next.js, Convex, Clerk, Gemini |
