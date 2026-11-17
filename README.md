@@ -13,10 +13,10 @@ Currently building AI-powered learning tools at **ElevateCareer.ai**. Previously
 | Project | Focus | Stack |
 |---|---|---|
 | [Portfolio](https://github.com/YashRaJShaRMaCODE/yashrajsharma-portfolio) · [Live portfolio](https://my-portfolio-ten-tau-95.vercel.app/) | Product case studies across full-stack systems and applied AI | Next.js, TypeScript, React |
-| [UNNATI](https://github.com/YashRaJShaRMaCODE/kisansetu) · [Live app](https://unnati-farmer-platform.vercel.app/) | Farmer services, scheme discovery, marketplace, and bilingual workflows | Django REST, Next.js, PostgreSQL |
-| [Clear Writing](https://github.com/YashRaJShaRMaCODE/draftloom) · [Live app](https://clear-writing-studio.onrender.com/) | Rewriting and concise summaries for professional drafts | Django REST, React, Gemini |
+| [UNNATI](https://github.com/YashRaJShaRMaCODE/kisansetu) · [Frontend preview](https://unnati-farmer-platform.vercel.app/) | Farmer-service discovery and bilingual workflow prototype | Django REST, Next.js, PostgreSQL |
+| [Clear Writing](https://github.com/YashRaJShaRMaCODE/draftloom) · [Frontend preview](https://clear-writing-studio.onrender.com/) | AI-assisted rewriting and concise summaries for professional drafts | Django REST, React, Gemini |
 | [Spott](https://github.com/YashRaJShaRMaCODE/gatherly) | AI-assisted event discovery and planning | Next.js, Convex, Clerk, Gemini |
-| [FrameScout](https://github.com/YashRaJShaRMaCODE/framescout) · [Live demo](https://framescout.vercel.app/) | Movie discovery and watchlists built around a fixed metadata snapshot | Django, SQLite |
+| [FrameScout](https://github.com/YashRaJShaRMaCODE/framescout) · [Frontend preview](https://framescout.vercel.app/) | Movie discovery and watchlists built around a fixed metadata snapshot | Django, SQLite |
 | [JobMail Tracker](https://github.com/YashRaJShaRMaCODE/applypost) · [Live site](https://yashrajsharmacode.github.io/applypost/) | Job application email tracking with Gmail and Google Sheets | Python, Gmail API, Google Sheets API |
 
 ## Ways to work together
